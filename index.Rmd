@@ -388,6 +388,7 @@ knitr::include_graphics("img/fho.png")
 * [Facebook](https://bit.ly/33L8m5P)
 
 * [Github](https://bit.ly/3ybqALJ)
+_______________________________________________________________________________________
 
 * [Artigo versão final completa](https://bit.ly/3FTjazX)
 
