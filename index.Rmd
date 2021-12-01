@@ -45,7 +45,7 @@ knitr::include_graphics("img/fho.png")
 <br></br>
 * A pesquisa aborda os tokens do Ethereum e o ecossistema.
 <br></br>
-* A pesquisa também contribui para a linha histórica da tecnologia do token e visou reintroduzir na literatura brasileira descrevendo esse ecosssistema, em torno da tecnologia.
+* A pesquisa também contribui para a linha histórica da tecnologia do token e visou reintroduzir na literatura brasileira descrevendo esse ecossistema, em torno da tecnologia.
 <br></br>
 * Segundo SANTOS(2020, p.1853)"Este é um mercado que negociou centenas de trilhões de dólares em uma base global de usuários da Internet em constante expansão."
 <p align="center">                        <!--largura--> <!--Altura-->
@@ -131,17 +131,6 @@ knitr::include_graphics("img/fho.png")
 </p>
 <p align="center">                        <!--largura--> <!--Altura-->
     <img src="img/fho2.png" alt="Image" width="240" height="70" />
-</p>
----
-```{r echo=FALSE, fig.align='right', out.width="10%"}
-knitr::include_graphics("img/fho.png")
-
-```
-<p align="center">                        <!--largura--> <!--Altura-->
-    <img src="img/branco.png" alt="Image" width="700" height="50" />
-</p>
-<p align="center">                        <!--largura--> <!--Altura-->
-    <img src="img/smart.png" alt="Image" width="600" height="470" />
 </p>
 ---
 ```{r echo=FALSE, fig.align='right', out.width="10%"}
@@ -254,12 +243,10 @@ knitr::include_graphics("img/fho.png")
     <img src="img/branco.png" alt="Image" width="700" height="50" />
 </p>
 
-* conclui-se que esse ecossistema ao entorno dos tokens tem grande potencial em substituir todo o sistema de mercado financeiro tradicional como é hoje em dia, causando uma transformação a longo prazo.
+* Conclui-se que esse ecossistema ao entorno dos tokens tem grande potencial em substituir todo o sistema de mercado financeiro tradicional como é hoje em dia, causando uma transformação a longo prazo.
 _______________________________________________________________________________________
 
 * A pesquisa trouxe fortes evidências de um novo rumo do mercado.
-
-* Valores mobiliários nunca foram criados antes fora do mercado financeiro.
 
 * Pela primeira vez na história as empresas podem emitir seu valor mobiliário por meio do security token.
 
@@ -274,7 +261,7 @@ ________________________________________________________________________________
 knitr::include_graphics("img/fho.png")
 
 ```
-### 6. REFERÊNCIAS BIBLIOGRÁFICAS
+### 6. REFERÊNCIAS
 
 <p align="center">                        <!--largura--> <!--Altura-->
     <img src="img/andrade.png" alt="Image" width="700" height="80" />
