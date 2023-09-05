@@ -377,7 +377,7 @@ knitr::include_graphics("img/fho.png")
 * [Github](https://bit.ly/3ybqALJ)
 _______________________________________________________________________________________
 
-* [Artigo versão final completa](https://bit.ly/3FTjazX)
+* [Artigo versão final completa](https://bit.ly/3Era9iV)
 
 
 ---
